@@ -12,3 +12,4 @@
 # 首页： https://portal.shadowsocks.la/index.php
 # https://secure.shadowsocks.ch/clientarea.php  登录账号的链接
 # 购买服务后，下载配置文件，放到Shadowsocks的文件夹中，将配置文件中的端口、服务器账号、密码、加密方式等添加到Shadowsocks编辑器中
+# 如果想需要使用手机翻墙，可以下载Shadowsocks(影梭)APP，这些资源在Shadowsocks官网的下载中心有。
