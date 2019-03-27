@@ -15,4 +15,4 @@
 # 如果想需要使用手机翻墙，可以下载Shadowsocks(影梭)APP，这些资源在Shadowsocks官网的下载中心有。
 # 每个服务器后面有个二维码，用TIM或者QQ扫描得到链接服务器的密钥。
 # Shadowsocks客户端相关操作： https://www.shadowroket.com/client.html
-# Shadowsocks安卓手机的操作： https://www.shadowroket.com/shadowsocks-android.html
+# Shadowsocks安卓版下载和操作： https://www.shadowroket.com/shadowsocks-android.html
