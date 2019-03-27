@@ -16,3 +16,5 @@
 # 每个服务器后面有个二维码，用TIM或者QQ扫描得到链接服务器的密钥。
 # Shadowsocks客户端相关操作： https://www.shadowroket.com/client.html
 # Shadowsocks安卓版下载和操作： https://www.shadowroket.com/shadowsocks-android.html
+
+# 备注：晚上比较顺畅，可能是因为时差的问题吧
