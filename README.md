@@ -1,12 +1,19 @@
 ### 希望科学上网（翻墙）带来的是福利，而不是伤害，请慎重对待科学上网
 
+# shadowsocks 官网，具有有注册账号和充值、下载客户端等功能： https://secure.shadowsocks.ch/aff.php?aff=24172
+
 # Science_Online
 # Chrome+SwitchyOmega+Shadowsocks实现智能翻墙（针对windows操作系统的电脑）
 # 实践准备：一台电脑、安卓Google Chrome浏览器、网络、一部Android手机
 
 # 非常实用，以下操作经本人实测，操作正确：
 
+# shadowsocks 官网，具有有注册账号和充值、下载客户端等功能： https://secure.shadowsocks.ch/aff.php?aff=24172
+
 # 建议：PC端首先安装Google Chrome,再安装Shadowsocks客户端，此时已经可以进行科学上网(翻墙)，再到Google chrome应用商店安装插件SwitchyOmega(现在好像得先翻墙才能访问Google Chrome应用商店)【SwitchyOmega不是必须的，但是在PC端安装了它之后，科学上网会变得更加灵活】
+
+# shadowsocks 官网，具有有注册账号和充值、下载客户端等功能： https://secure.shadowsocks.ch/aff.php?aff=24172
+
 
 # Windows 操作系统的客户端（电脑）
 # Shadowsocks-4.1.5.zip为Shadowsocks Windows的客户端
@@ -14,6 +21,8 @@
 # shadowsocks-AndroidApp-4.2.5.zip为Android手机客户端
 # Shadowsocks客户端相关操作： https://www.shadowroket.com/client.html
 # Shadowsocks安卓版下载和操作： https://www.shadowroket.com/shadowsocks-android.html
+
+# shadowsocks 官网，具有有注册账号和充值、下载客户端等功能： https://secure.shadowsocks.ch/aff.php?aff=24172
 
 # 购买服务后，下载配置文件，放到Shadowsocks的文件夹中，将配置文件中的端口、服务器账号、密码、加密方式等添加到Shadowsocks编辑器中
 # 如果想需要使用手机翻墙，可以下载Shadowsocks(影梭)APP，这些资源在Shadowsocks官网的下载中心有。
@@ -23,10 +32,7 @@
 
 # 听说Shadowsocks的官网有很多域名（由于一些不知名的原因，经常更换域名并且经常不能正常访问，由于时差问题，建议凌晨操作）
 
-
-
 # shadowsocks 官网，具有有注册账号和充值、下载客户端等功能： https://secure.shadowsocks.ch/aff.php?aff=24172
-
 
 
 # 【可以上去注册账号，并且进行充值（虽然有免费账号，但有自己的会更好），基础服务全年95.5RMB，每天也就0.2~0.3RMB，相当实惠，基本能满足个人要求】
