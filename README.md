@@ -1,3 +1,5 @@
+### 希望科学上网（翻墙）带来的是福利，而不是伤害，请慎重对待科学上网
+
 # Science_Online
 # Chrome+SwitchyOmega+Shadowsocks实现智能翻墙（针对windows操作系统的电脑）
 # 实践准备：一台电脑、安卓Google Chrome浏览器、网络、一部Android手机
