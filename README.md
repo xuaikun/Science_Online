@@ -1,10 +1,20 @@
 ### 希望科学上网（翻墙）带来的是福利，而不是伤害，请慎重对待科学上网
 
-# shadowsocks 官网，具有有注册账号和充值、下载客户端等功能： https://secure.shadowsocks.ch/aff.php?aff=24172
-
 # Science_Online
 # Chrome+SwitchyOmega+Shadowsocks实现智能翻墙（针对windows操作系统的电脑）
 # 实践准备：一台电脑、安卓Google Chrome浏览器、网络、一部Android手机
+
+# shadowsocks 官网，具有有注册账号和充值、下载客户端等功能： https://secure.shadowsocks.ch/aff.php?aff=24172
+
+
+# shadowsocks 介绍： https://secure.shadowsocks.ch/knowledgebase/46/-.html
+# Android shadowsocks 客户端下载： https://github.com/shadowsocks/shadowsocks-android/releases
+# IOS shadowsocks 客户端下载：https://secure.shadowsocks.ch/knowledgebase/49/Shadowsocks----iOS.html
+# windowns 客户端下载： https://secure.shadowsocks.ch/knowledgebase/47/Shadowsocks----Windows.html
+# Linux 客户端下载： https://secure.shadowsocks.ch/knowledgebase/40/Shadowsocks----Linux.html
+# Macos 客户端下载： https://secure.shadowsocks.ch/knowledgebase/48/Shadowsocks----macOS.html
+# Chrome 操作： https://secure.shadowsocks.ch/knowledgebase/50/---Chrome.html
+
 
 # 非常实用，以下操作经本人实测，操作正确：
 
