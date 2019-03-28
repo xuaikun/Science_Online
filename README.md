@@ -6,7 +6,7 @@
 
 # 非常实用，以下操作经本人实测，操作正确：
 
-# 建议：PC端首先安装Google Chrome,再安装Shadowsocks客户端，此时已经可以进行科学上网(翻墙)，再到Google chrome应用商店安装插件SwitchyOmega(现在好像得先翻墙才能访问Google Chrome应用商店)
+# 建议：PC端首先安装Google Chrome,再安装Shadowsocks客户端，此时已经可以进行科学上网(翻墙)，再到Google chrome应用商店安装插件SwitchyOmega(现在好像得先翻墙才能访问Google Chrome应用商店)【SwitchyOmega不是必须的，但是在PC端安装了它之后，科学上网会变得更加灵活】
 
 # Windows 操作系统的客户端（电脑）
 # Shadowsocks-4.1.5.zip为Shadowsocks Windows的客户端
