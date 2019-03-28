@@ -28,7 +28,7 @@
 # https://www.shadowsocks.net/
 # 首页： https://portal.shadowsocks.la/index.php
 # https://secure.shadowsocks.ch/clientarea.php  登录账号的链接
-#【可以上去注册账号，并且进行充值（虽然有免费账号，但有自己的会更好），基础服务全年95.5RMB，每天也就0.2~0.3RMB，相当实惠，基本能满足个人要求】
+# 【可以上去注册账号，并且进行充值（虽然有免费账号，但有自己的会更好），基础服务全年95.5RMB，每天也就0.2~0.3RMB，相当实惠，基本能满足个人要求】
 
 
 # 备注：晚上比较顺畅，可能是因为时差的问题吧
