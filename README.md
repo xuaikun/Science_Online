@@ -22,13 +22,17 @@
 # 翻墙小白学习手册： https://glorystar.me/archives/chrome-use-switchyomega-autoproxy.html
 
 # 听说Shadowsocks的官网有很多域名（由于一些不知名的原因，经常更换域名并且经常不能正常访问，由于时差问题，建议凌晨操作）
-# https://secure.shadowsocks.nu 
-# https://secure.shadowsocks.ch
-# https://cp.shadowsocks.io/index.php
-# https://www.shadowsocks.net/
-# 首页： https://portal.shadowsocks.la/index.php
-# https://secure.shadowsocks.ch/clientarea.php  登录账号的链接
+
+
+
+# shadowsocks 官网，具有有注册账号和充值、下载客户端等功能： https://secure.shadowsocks.ch/aff.php?aff=24172
+
+
+
 # 【可以上去注册账号，并且进行充值（虽然有免费账号，但有自己的会更好），基础服务全年95.5RMB，每天也就0.2~0.3RMB，相当实惠，基本能满足个人要求】
 
-
+# 英文版下载： https://www.shadowsocks.net/
+# 备份链接：
+# https://portal.shadowsocks.la/index.php
+# https://secure.shadowsocks.ch/clientarea.php 
 # 备注：晚上比较顺畅，可能是因为时差的问题吧
