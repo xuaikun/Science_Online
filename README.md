@@ -1,8 +1,8 @@
 # Science_Online
 # Chrome+SwitchyOmega+Shadowsocks实现智能翻墙（针对windows操作系统的电脑）
-# 实践准备：一台电脑、安卓Google Chrome浏览器、网络
+# 实践准备：一台电脑、安卓Google Chrome浏览器、网络、一部Android手机
 
-# 非常实用
+# 非常实用，以下操作经本人实测，操作正确：
 # 翻墙小白学习手册： https://glorystar.me/archives/chrome-use-switchyomega-autoproxy.html
 
 # Windows 操作系统的客户端（电脑）
