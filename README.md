@@ -43,3 +43,5 @@
 # 备注：晚上比较顺畅，可能是因为时差的问题吧
 
 # 新资源：（香港的比较稳定）https://hkjss.cn/clientarea.php
+
+# 新资源： (比较便宜)https://www.scto03.xyz/auth/register?code=PRdC
